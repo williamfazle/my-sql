@@ -1,4 +1,4 @@
-# SQL Interview Questions — Data Analyst Level (With Full Solutions)
+# SQL Interview Questions
 
 > 50 SQL questions covering beginner, intermediate, and advanced topics, with solutions using a sample ecommerce dataset.
 

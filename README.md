@@ -326,4 +326,4 @@ UPDATE products SET category='Other' WHERE category IN ('Accessories','Beauty') 
 
 All 50 questions now include practical SQL solutions ready to execute on your ecommerce practice dataset.
 
-### william_fazle
+### @william_fazle
